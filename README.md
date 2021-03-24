@@ -10,5 +10,3 @@ I’m currently working on the PyBlock Module and it's other features such as it
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact)](https://github.com/Infinite-Blue-1042/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
