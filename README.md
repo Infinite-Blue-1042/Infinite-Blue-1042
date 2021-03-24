@@ -11,12 +11,3 @@ I’m currently working on the PyBlock Module and it's other features such as it
 
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
-
-| | **Architecture** | **main** | **Package** |
-|---|:---:|:---:|:---:|
-| **macOS**        | x86_64 |[![Build Status](https://ci.swift.org/job/oss-swift-incremental-RA-macos/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-incremental-RA-macos)|[![Build Status](https://ci.swift.org/job/oss-swift-package-macos/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-macos)|
-| **Ubuntu 16.04** | x86_64 | [![Build Status](https://ci.swift.org/job/oss-swift-incremental-RA-linux-ubuntu-16_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-incremental-RA-linux-ubuntu-16_04)|[![Build Status](https://ci.swift.org/job/oss-swift-package-linux-ubuntu-16_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-linux-ubuntu-16_04)|
-| **Ubuntu 18.04** | x86_64 | [![Build Status](https://ci.swift.org/job/oss-swift-incremental-RA-linux-ubuntu-18_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-incremental-RA-linux-ubuntu-18_04)|[![Build Status](https://ci.swift.org/job/oss-swift-package-linux-ubuntu-18_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-linux-ubuntu-18_04)|
-| **Ubuntu 20.04** | x86_64 | [![Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04)|[![Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04)|
-| **CentOS 8** | x86_64 | [![Build Status](https://ci.swift.org/job/oss-swift-package-centos-8/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-centos-8)|[![Build Status](https://ci.swift.org/job/oss-swift-package-centos-8/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-centos-8)|
-| **Amazon Linux 2** | x86_64 | [![Build Status](https://ci.swift.org/job/oss-swift-package-amazon-linux-2/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-amazon-linux-2)|[![Build Status](https://ci.swift.org/job/oss-swift-package-amazon-linux-2/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-amazon-linux-2)|
