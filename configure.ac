@@ -11,9 +11,7 @@ AC_PROG_GREP
 AC_PROG_EGREP
 AC_PROG_CXX
 
-dnl First look for Boost, maybe for a specific minimum version:
 BOOST_REQUIRE([1.34])
-dnl Then look for specific Boost libraries you need:
 BOOST_ARRAY
 BOOST_DATE_TIME
 
