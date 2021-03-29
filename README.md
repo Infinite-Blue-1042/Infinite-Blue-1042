@@ -8,6 +8,3 @@ I am a 12 year old programmer inside California. I’m currently working on the 
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=blue&color=0C7DBE)
  
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact)](https://github.com/Infinite-Blue-1042/github-readme-stats)
- 
