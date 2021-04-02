@@ -7,7 +7,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @symbol-class: "\e600";
 @symbol-struct: "\e601";
 @symbol-macro: "\e602";
@@ -35,11 +34,9 @@
 }
 .atomts-semantic-view {
   overflow-y: auto;
-
   div.header {
     position: initial;
   }
-
   div.header.selected {
     color: @text-color-selected;
     & > span {
@@ -59,7 +56,6 @@
       content: "";
     }
   }
-
   // @syntax-color-variable
   // @syntax-color-constant
   // @syntax-color-property
@@ -71,40 +67,6 @@
   // @syntax-color-tag
   // @syntax-color-attribute
   // @syntax-color-import
-
-  .symbol-icon(class);
-  .symbol-icon(variable);
-  .symbol-icon(struct,    @color: class);
-  .symbol-icon(interface, @color: class);
-  .symbol-icon(enum,      @color: class);
-  .symbol-icon(typedef,   @color: class);
-  .symbol-icon(macro,     @color: variable);
-  .symbol-icon(union,     @color: class);
-
-  .symbol-icon(field,       variable, property);
-  .symbol-icon(member,      variable, property);
-  .symbol-icon(property,    variable, property);
-  .symbol-icon(module,      macro,    import);
-
-  //type definition
-  .symbol-icon(type,        typedef,  class);
-
-  // variable like
-  .symbol-icon(var,         variable);
-  .symbol-icon(alias,       variable);
-  .symbol-icon(let,         variable);
-  .symbol-icon(const,       variable);
-
-  // function like
-  .symbol-icon(function,    function);
-  .symbol-icon(constructor, function, method);
-  .symbol-icon(method,      function, method);
-  .symbol-icon(setter,      function, method);
-  .symbol-icon(getter,      function, method);
-
-  // module like
-  .symbol-icon(namespace,   namespace, import);
-
   // access-modifiers
   .modifier(public, @text-color-success);
   .modifier(protected, @text-color-warning);
