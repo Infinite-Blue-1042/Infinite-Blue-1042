@@ -9,18 +9,6 @@ declare module "atom/dependencies/text-buffer/src/text-buffer" {
     }
   }
 }
-declare module "atom" {
-  interface TextEditor {
-    onDidTokenize(callback: () => void): Disposable
-    isDestroyed(): boolean
-    component: {
-      getNextUpdatePromise(): Promise<unknown>
-    }
-  }
   interface TextEditorElement {
     setUpdatedSynchronously(val: boolean): void
-  }
-  interface Grammar {
-    fileTypes: string[]
-  }
 }
