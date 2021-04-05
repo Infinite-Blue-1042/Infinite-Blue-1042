@@ -8,7 +8,6 @@ RUN autoconf
 RUN ./configure
 RUN make
 RUN make install
-
 WORKDIR /root
 RUN wget http://curl.haxx.se/download/curl-7.45.0.tar.gz
 RUN tar -zxvf curl-7.45.0.tar.gz
@@ -18,4 +17,4 @@ RUN make
 RUN make install
 RUN ldconfig
 CMD ["-h"]
-ENTRYPOINT ["/usr/local/bin/curl"]
+ENTRYPOINT ["/usr/local/bin/bash"]
