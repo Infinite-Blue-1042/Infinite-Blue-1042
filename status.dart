@@ -1,1 +1,2 @@
-status("Dynamic Repository)
+status("Dynamic Repository")
+plus("Newly Added infromation")
