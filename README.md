@@ -9,4 +9,5 @@ I’m currently working on the PyBlock Module and it's other features such as it
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Infinite-Blue-1042&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact" />[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact"
+/>[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)
