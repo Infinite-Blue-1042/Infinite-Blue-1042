@@ -14,3 +14,13 @@ I’m currently working on the PyBlock Module and it's other features such as it
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Infinite-Blue-1042&column=7&theme=onedark" />
 </div>
+
+{
+  "joined": "March 2021",
+  "repos": "31",
+  "repos_contributed_to": "31",
+  "commits": "461",
+  "stars": "31",
+  "issues": "7",
+  "pull_requests": "1"
+}
