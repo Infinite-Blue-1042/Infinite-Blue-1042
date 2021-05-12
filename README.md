@@ -8,6 +8,11 @@ I’m currently working on the PyBlock Module and it's other features such as it
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=blue&color=0C7DBE)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Infinite-Blue-1042&theme=github)
+JavaScript   3 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.98 % 
+Vue.js       1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+CSS          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+JSON         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+HTML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact"/>
         <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Blue-1042&" alt="Infinite-Blue-1042" /></p></center>
