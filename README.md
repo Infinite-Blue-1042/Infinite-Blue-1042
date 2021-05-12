@@ -10,14 +10,7 @@ I’m currently working on the PyBlock Module and it's other features such as it
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Infinite-Blue-1042&theme=github)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact"/>
- 
+        <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Blue-1042&" alt="Infinite-Blue-1042" /></p></center>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Infinite-Blue-1042&column=7&theme=onedark" />
 </div>
-
-   
-   
-   
-   
-   
-   <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Blue-1042&" alt="Infinite-Blue-1042" /></p></center>
