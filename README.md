@@ -8,11 +8,83 @@ I’m currently working on the PyBlock Module and it's other features such as it
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=blue&color=0C7DBE)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Infinite-Blue-1042&theme=github)
-JavaScript   3 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.98 % 
-Vue.js       1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
-CSS          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-JSON         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-HTML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+
+### :man_technologist: `I majorly code with`  
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
+	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+### :sunrise: `Daily development tools`  
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> 
+	<img src="icons/bnw/gnubash.svg" alt="gnubash" width="40" height="40"/>
+	<img src="icons/bnw/visualstudiocode.svg" alt="visualstudiocode" width="40" height="40"/>
+	<img src="icons/bnw/git.svg" alt="git" width="40" height="40"/>
+	<img src="icons/bnw/github.svg" alt="github" width="40" height="40"/>
+</p>
+
+### :spider_web: `Legacy web dev languages - frontend & backend`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
+	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+	<img src="icons/bnw/css 3.svg" alt="css3" width="40" height="40"/>
+	<img src="icons/bnw/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+	<img src="icons/bnw/jquery.svg" alt="jquery" width="40" height="40"/>
+	<img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
+	<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
+</p>
+
+### :baby: `Modren web development/publishing frameworks`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
+	<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
+	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
+</p>
+
+### :bar_chart: `API development toolkit`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="500" height="330" />
+	<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/>
+	<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
+</p>
+
+### :cloud: `Cloud platforms`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/digitalocean.svg" alt="digitalocean" width="40" height="40"/>
+	<img src="icons/bnw/firebase.svg" alt="firebase" width="40" height="40"/>
+	<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
+	<img src="icons/bnw/heroku.svg" alt="heroku" width="40" height="40"/> 
+</p>
+
+### :arrows_counterclockwise: `CI/CD tools`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
+</p>
+
+### :electric_plug: `IOT boards`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/arduino.svg" alt="arduino" width="40" height="40"/>
+	<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
+</p>
+
+### :fountain_pen: `DTP, spreadsheets & presentations`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/microsoftword.svg" alt="microsoftword" width="40" height="40"/>
+	<img src="icons/bnw/microsoftexcel.svg" alt="microsoftexcel" width="40" height="40"/>
+	<img src="icons/bnw/microsoftpowerpoint.svg" alt="microsoftpowerpoint" width="40" height="40"/>
+	<img src="icons/bnw/googlesheets.svg" alt="googlesheets" width="40" height="40"/>
+</p>   
+
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinite-Blue-1042)](https://github.com/Infinite-Blue-1042/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Blue-1042&layout=compact"/>
         <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Blue-1042&" alt="Infinite-Blue-1042" /></p></center>
