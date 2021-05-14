@@ -1,4 +1,4 @@
-# Hi there! I am a 12 year old Python Software Devolper!👋
+# Hi there! I am a Python Software Devolper!👋
 ### The V-Search-Engine is out! [Download now](https://github.com/Infinite-Blue-1042/V-Search-Engine)! 
 I’m currently working on the PyBlock Module and it's other features such as it's graphics, as well as the Infinity Blue and Blue Core Computer which is currently written in EasyEda script ( And some of Kicad ) and converted into the the Perl and Perl6 ( Raku ) format. I am also developing the programming language V, V++ and V#, along with the Z-5056952 architecture complmenting the Infinty-Blue-Computer. I am also currently learning the Java and Dart Programming Language, I would like to develop fast mobile apps with them and to create useful applications. I use Swift and SwiftUI in Xcode to develop IOS apps for the Mac, iPhone, Apple TV, and the Apple Watch. And I also program on the Android Studio for the Apps in the Android OS made by Google. I’m looking to collaborate on Python projects such as open - source modules and apps. Please feel free the PullRepquest or become a contributer to any repositore with my perrmission!
 
